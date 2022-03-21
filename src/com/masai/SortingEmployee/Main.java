@@ -22,7 +22,7 @@ public class Main {
 
 
             System.out.println("Enter Name");
-            String name = input.nextLine();
+            String name = input.next();
 
             input.nextLine();
 
